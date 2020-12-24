@@ -1,0 +1,40 @@
+@media(min-width: 320px) and (max-width: 767px){
+.subpage_squares > .row > div:first-child {
+    padding: 4rem 2rem 3rem 2rem;
+}
+.subpage_presentation {
+    padding: 4.5rem 2rem;
+}
+.desc-normal {
+    font-size: 16px;
+    line-height: 30px;
+}
+#hero.subpage h1 {
+    font-size: 22px;
+}
+#hero.subpage h2 {
+    font-size: 2rem;
+}
+.title-small {
+    line-height: 26px;
+}
+.wimg {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.martXs{
+	margin-top: 20px;
+}
+.desc-big{
+	font-size: 23px;
+    line-height: 35px;
+}
+
+}
+
+@media(min-width: 768px) and (max-width: 1200px){
+.wimg {
+    width: 100%;
+}
+}

@@ -1,0 +1,14 @@
+.subpage_squares .desc-big {
+    margin-bottom: 2rem;
+}
+.wimg{
+	width: 100%;
+    margin-top: -100px;
+}
+@media(min-width: 1200px) and (max-width: 1600px){
+	.wimg {
+    width: 600px;
+    margin-left: -60px;
+}
+
+}

@@ -1,0 +1,58 @@
+.ulbul .blue_check span::before {
+    content: '';
+    background-image: url(../img/blue_check.jpg);
+    background-repeat: no-repeat;
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    top: 0;
+    left: -3rem;
+}
+.ulbul .blue_check span{
+	position: relative;
+}
+.ulbul .blue_check{
+	padding-left: 45px;
+}
+.subpage_squares .desc-big {
+    margin-bottom: 2rem;
+}
+.ulspn span{
+	display: block;
+	margin-bottom: 18px;
+}
+
+@media(min-width: 320px) and (max-width: 767px){
+.subpage_squares > .row > div:first-child {
+    padding: 4rem 2rem 3rem 2rem;
+}
+.subpage_presentation {
+    padding: 4.5rem 2rem;
+}
+.desc-normal {
+    font-size: 16px;
+    line-height: 30px;
+}
+#hero.subpage h1 {
+    font-size: 22px;
+}
+#hero.subpage h2 {
+    font-size: 2rem;
+}
+.haut{
+	height: auto !important;
+}
+.title-small {
+    line-height: 26px;
+}
+.marb0xs{
+	margin-bottom: 0px;
+}
+
+}
+
+@media(min-width: 768px) and (max-width: 992px){
+.haut{
+	height: auto !important;
+}
+}

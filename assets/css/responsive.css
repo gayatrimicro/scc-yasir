@@ -1,0 +1,812 @@
+@media (min-width : 576px) { /* extra small and up */
+
+	#hero.subpage #hero_titles {
+	  left: 2.5rem;
+	}
+
+	#sante_publique-centre .desc-big {
+	  width: 26rem;
+	}
+
+	#demande_essai_gratuit > div:nth-child(2) > .wrap_choices {
+		display: inline-block;
+	}
+
+	#temoignage-controls {
+		margin-right: 0;
+		right: 2rem;
+		top: 2.6rem;
+	}
+
+	#temoignages-bulle .title_with_fade {
+		font-size: 3.5rem;
+		text-align: left;
+	}
+
+	#temoignages-bulle .temoignage {
+		margin: 0;
+	}
+
+	#temoignage-personne {
+		padding: 3.5rem;
+	}
+
+	#temoignage-personne .temoignage-occupation {
+		width: 25rem;
+	}
+
+	#temoignage-personne {
+		padding: 1.5rem 3.5rem 2.5rem 8.5rem;
+	}
+
+	#contact-form > div > div:first-child {
+		padding: 8rem;
+	}
+
+}
+
+
+
+@media (min-width : 768px) { /* small and up */
+
+	#hero_titles .btn-linear_gradient_blue {
+	  font-size: 1.25rem;
+	}
+
+	.services_box {
+	  padding: 2rem;
+	  border-radius: 0 12rem 12em;
+	  margin: 0 2rem;
+	}
+
+	.services_box > a {
+		padding-bottom: 0;
+	}
+
+	.services_box > a:nth-child(2), 
+	.services_box > a:last-child {
+		padding-top: 0;
+	}
+
+	.services_box .choice {
+	  width: 100%;
+	}
+
+	.services_box img {
+	  margin: auto;
+	  margin-bottom: 1rem;
+	  width: 5rem;
+	}
+
+	.services_box .title {
+		font-size: 1.5rem;
+	}
+
+	.services_box .subtitle {
+		margin-top: 0;
+		font-size: .8rem;
+	}
+
+	.services_box i.fa-plus {
+	  margin-top: .5rem;
+	  font-size: 1.5rem;
+	}
+
+	.services_box .vertical_line {
+	  bottom: 50%;
+	  right: 0;
+	  margin-right: 0;
+	  margin-bottom: -3rem;
+	  width: 1px;
+	  height: 6rem;
+	}
+
+	#sante_publique-blue_box .services_box .vertical_line,
+	#partenaires-blue_box .services_box .vertical_line,
+	#contact-blue_box .services_box .vertical_line {
+	  right: -2rem;
+	}
+
+	#sante_publique-blue_box .services_box > a,
+	#partenaires-blue_box .services_box > a,
+	#contact-blue_box .services_box > a {
+	  padding: 2rem;
+	}
+
+	#sante_publique-blue_box .services_box .title,
+	#partenaires-blue_box .services_box .title,
+	#contact-blue_box .services_box .title {
+		font-size: 1.25rem;
+	}
+
+	div.wpforms-container-full .wpforms-form .wpforms-one-half, 
+	div.wpforms-container-full .wpforms-form .wpforms-three-sixths, 
+	div.wpforms-container-full .wpforms-form .wpforms-two-fourths {
+	  width: 48% !important;
+	}
+
+	div.wpforms-container-full .wpforms-form .wpforms-five-sixths, 
+	div.wpforms-container-full .wpforms-form .wpforms-four-sixths, 
+	div.wpforms-container-full .wpforms-form .wpforms-four-fifths, 
+	div.wpforms-container-full .wpforms-form .wpforms-one-fifth, 
+	div.wpforms-container-full .wpforms-form .wpforms-one-fourth, 
+	div.wpforms-container-full .wpforms-form .wpforms-one-half, 
+	div.wpforms-container-full .wpforms-form .wpforms-one-sixth, 
+	div.wpforms-container-full .wpforms-form .wpforms-one-third, 
+	div.wpforms-container-full .wpforms-form .wpforms-three-fourths, 
+	div.wpforms-container-full .wpforms-form .wpforms-three-fifths, 
+	div.wpforms-container-full .wpforms-form .wpforms-three-sixths, 
+	div.wpforms-container-full .wpforms-form .wpforms-two-fourths, 
+	div.wpforms-container-full .wpforms-form .wpforms-two-fifths, 
+	div.wpforms-container-full .wpforms-form .wpforms-two-sixths, 
+	div.wpforms-container-full .wpforms-form .wpforms-two-thirds {
+	  margin-left: 4% !important;
+	}
+
+	#temoignage-controls {
+		right: 2.5rem;
+		top: 4rem;
+	}
+
+	#temoignages-bulle .title_with_fade {
+		font-size: 5rem;
+	}
+
+}
+
+
+@media (min-width : 992px) { /* medium and up */
+
+	.bg_parallax {
+		background-attachment: fixed;
+	}
+
+	.wpml-ls-legacy-list-horizontal > ul {
+		position: relative;
+		left: .4rem;
+	}
+
+	#burger_menu {
+		position: absolute;
+	  top: 0;
+	  left: 0;
+	}
+
+	#home #hero {
+		background-size: cover;
+	}
+
+	#home #hero_titles h1 {
+		font-size: 3rem;
+	}
+
+	#home #hero_titles h2 {
+		margin-bottom: 4rem;
+		font-size: 3.5rem;
+		line-height: 3rem;
+	}
+
+	#hero.subpage {
+	  height: 35rem;
+	}
+
+	#menu-top {
+		display: block;
+	}
+
+	#pale_blue_aside {
+		right: -65vw;
+	  width: 65vw;
+	  padding: 2.5rem 5rem;
+	}
+
+	aside#pale_blue_aside #close_btn-aside_pale_blue {
+		top: 1rem;
+	}
+
+	aside#pale_blue_aside .title_with_fade {
+  	font-size: 6em;
+	}
+
+	aside#pale_blue_aside .subtitle {
+	  margin-top: -3rem;
+	}
+
+	aside#pale_blue_aside .small_desc {
+		font-size: 3rem;
+	}
+
+	aside#pale_blue_aside .ordinary_text p {
+		font-size: 1.5rem;
+	}
+
+	aside#pale_blue_aside ul li {
+		font-size: 1.5rem;
+	}
+
+	aside#pale_blue_aside ul li::before {
+		top: 13px;
+	}
+
+	aside#menu-left_sidebar {
+		width: 6rem;
+		height: 100vh;
+	}
+	main, header, footer {
+		width: calc(100% - 6rem); /* Remove width of the aside's width */
+		margin: 0 0 0 auto;
+		transition: width .25s ease-in-out;
+	}
+
+	/* Largeur des elements HTML avec aside ouvert */
+	body.left_aside_menu-opened aside#menu-left_sidebar {
+		width: 16rem;
+	}
+	body.left_aside_menu-opened main,
+	body.left_aside_menu-opened header,
+	body.left_aside_menu-opened footer {
+		width: calc(100% - 16rem); /* Remove width of the aside */
+	}
+
+	#burger_menu {
+		margin-top: 3rem;
+  	margin-left: 2rem;
+  	height: 45px;
+	}
+
+	#aside_content {
+		margin-left: 0;
+	}
+
+	body.left_aside_menu-opened #aside_content > li {
+		font-size: 1.1rem;
+	}
+
+	#language_wrap {
+		display: inline;
+		margin: 0;
+    position: fixed;
+    left: 1.25rem;
+    bottom: 1rem;
+	}
+
+	#language_wrap > button {
+		font-size: .85rem;
+	}
+
+	#aside_content {
+		margin-left: 1rem;
+	}
+
+	#home #hero {
+		height: 100vh;
+	}
+
+	#hero_titles {
+		padding:0 0 0 4.5rem;
+	}
+
+	.subpage_presentation {
+		padding: 4.5rem 3rem;
+	}
+
+	#sante_publique-metadonnees {
+		padding: 4.5rem 3rem 7rem 4.5rem;
+	}
+
+	.subpage_presentation > .row > div:first-child,
+	#sante_publique-metadonnees > div > div:first-child {
+		padding-right: 6rem;
+	}
+
+	#hero.subpage #hero_titles {
+	  left: 14rem;
+	}
+
+	#services_box_blue,
+	#services_box_linear_gradient {
+		padding: 2.5rem 0;
+	}
+
+	.services_box img {
+	  width: 6rem;
+	}
+
+	.services_box .subtitle {
+		font-size: 1rem;
+	}
+
+	.services_box i.fa-plus {
+	  font-size: 2rem;
+	}
+
+	#logiciel_presentation,
+	#notre_solution,
+	footer #premier_fournisseur_mondial {
+	  padding: 2.5rem 3rem;
+	}
+
+	#deploiement .row {
+		padding: 2.5rem 3rem 5rem 0;
+	}
+
+	#sante_publique-blue_box .services_box .title,
+	#partenaires-blue_box .services_box .title,
+	#contact-blue_box .services_box .title {
+		font-size: 1.5rem;
+	}
+
+	footer #demande_essai_gratuit {
+		padding: 6rem 3rem;
+	}
+
+	#demande_essai_gratuit > div:first-child > p:nth-child(2) {
+	  font-size: 1.5rem;
+	  line-height: 1.75rem;
+	}
+
+	#demande_essai_gratuit > div:nth-child(2) > .wrap_choices {
+		width: 29rem;
+	}
+
+	.wrap_footer_choices {
+    padding-top: 1.5rem;
+	}
+
+	.wrap_choices.active #footer-choices_pill_animation {
+	  left: calc(100% - 14rem - 5px);
+	  width: 14rem;
+	}
+
+	#premier_fournisseur_mondial > div:first-child > .huge_title {
+	  font-size: 4rem;
+	  line-height: 4rem;
+	}
+
+	#premier_fournisseur_mondial > div:first-child > .small_title {
+	  font-size: 2.75rem;
+	  line-height: 4.2rem;	
+	}
+
+	.wrap_footer_choices a {
+		margin-bottom: 1rem;
+	}
+
+	#wrap-all_rights_reserved {
+		padding: 0 3rem 2.5rem 3rem;
+	}
+
+	#premier_fournisseur_mondial > div:first-child > .huge_title {
+		font-size: 3.5rem;
+		line-height: 4.2rem;
+	}
+
+	#a_propos-squares {
+		padding:4.5rem 2.5rem 0 0;
+	}
+
+	#a_propos-squares > div > div:nth-child(2) {
+		padding-left: 3rem;
+		padding-top: 4.5rem;
+		padding-bottom: 4.5rem;
+	}
+
+	#a_propos-squares > div > div:first-child {
+		height: inherit;
+		margin-bottom: 0;
+	}
+
+	.subpage_squares > .row:nth-child(odd) > div:first-child {
+		-ms-flex-order: 2;
+    order: 2;
+	}
+
+	.subpage_squares > .row:nth-child(odd) > div:last-child {
+		-ms-flex-order: 1;
+    order: 1;
+	}
+
+	#a_propos-squares.subpage_squares > .row:nth-child(odd) > div:first-child,
+	#a_propos-squares.subpage_squares > .row:nth-child(odd) > div:last-child {
+		-ms-flex-order: inherit;
+    order: inherit;
+	}
+
+	.subpage_squares > .row > div:last-child {
+		height: inherit;
+	}
+
+	.subpage_presentation > .row > div:last-child,
+	#sante_publique-metadonnees > div > div:nth-child(2) {
+		padding-right: 3rem;
+	}
+
+	#sante_publique-centre {
+		border-radius: 4rem 0 0 0;
+		padding: 4.5rem 3rem;
+		margin-top: -3rem;
+	}
+
+	
+	#sante_publique-organisations {
+		padding: 4.5rem 3rem 9rem 3rem;
+	}
+
+	#roulette {
+		display: block;
+	}
+
+	#temoignages-bulle {
+		padding: 0 2.5rem 2.5rem 2.5rem;
+	}
+
+	#temoignage-controls {
+		right: 2rem;
+		top: 3.75rem;
+	}
+
+	#temoignages-bulle .title_with_fade {
+		font-size: 6rem;
+	}
+
+	#contact-form > div > div:first-child {
+		-ms-flex-order: 1;
+    order: 1;
+	}
+
+	#contact-form > div > div:last-child {
+		-ms-flex-order: 2;
+    order: 2;
+	}
+
+	#contact-blue_box {
+		margin-bottom: 0;
+		margin-top: -2rem;
+	}
+
+}
+
+
+@media (min-width : 1200px) { /* large and up */
+
+	#hero_titles {
+		bottom: 9%;
+		padding: 0 0 0 5rem;
+	}
+
+	#logiciel_presentation .title-gradient_to_white {
+		font-size: 5rem;
+	}
+
+	.services_box {
+		padding: 4rem;
+	}
+
+	.services_box img {
+		width: 8rem;
+	}
+
+	.services_box .title {
+		font-size: 1.75rem;
+	}
+
+	.services_box .subtitle {
+		font-size: 1.2rem;
+	}
+
+	.services_box i.fa-plus {
+		margin-top: 1.5rem;
+		font-size: 2.25rem;
+	}
+
+	#notre_solution {
+		padding: 4.5rem 8rem 4.5rem 4rem;
+	}
+
+	#deploiement .row {
+		padding:4.5rem 8rem 9rem 3rem;
+	}
+
+	#demande_essai_gratuit > div:first-child > p:nth-child(2) {
+	  font-size: 2rem;
+	  line-height: 2.5rem;
+	}
+
+	#demande_essai_gratuit > div:nth-child(2) > .wrap_choices {
+		width: 38rem;
+	}
+
+	#footer-choices_pill_animation {
+	  top: 6px;
+    left: calc(100% - 100% + 5px);
+    width: 20rem;
+    height: 5.1rem;
+	}
+
+	.wrap_choices.active #footer-choices_pill_animation {
+		width: 18rem;
+		left: calc(100% - 18rem - 5px);
+	}
+
+	.wrap_choices .btn-essai,
+	.wrap_choices .btn-joindre { 
+		font-size: 1.3rem;
+		margin-left: 0;
+		padding: 1.5rem 2rem;
+	}
+
+	.wrap_choices .btn-essai {
+		margin-left: 2rem;
+	}
+
+	.wrap_choices .btn-joindre {
+		right: 3rem;
+	}
+
+	#temoignages-bulle .title_with_fade {
+		font-size: 7rem;
+	}
+
+	#temoignage-controls {
+		right: 4rem;
+		top: 4.5rem;
+	}
+
+}
+
+
+
+
+@media (min-width : 1400px) { 
+
+	#home #hero_titles {
+		bottom: 11rem;
+	}
+
+	#home #hero_titles h1 {
+		font-size: 3.5rem;
+		margin-bottom: 1rem;
+	}
+
+	#home #hero_titles h2 {
+		font-size: 4rem;
+		margin-bottom: 0;
+	}
+
+	.subpage_presentation,
+	#sante_publique-metadonnees {
+	  padding: 10rem 8rem 10rem 6rem;
+	}
+
+	#sante_publique-centre {
+		padding: 10rem 8rem 10rem 6rem;
+	}
+
+	#logiciel_presentation .title-gradient_to_white {
+		font-size: 6rem;
+	}
+
+	.btn-linear_gradient_blue > i {
+		font-size: 2.5rem;
+	}
+
+	.services_box {
+		margin: 0 4rem;
+	}
+
+	.desc-big {
+		font-size: 2rem;
+	}
+
+	#logiciel_presentation {
+		padding: 2.5rem 8rem;
+	}
+
+	#notre_solution,
+	#deploiement .row {
+		padding: 9.5rem 8rem 9.5rem 4rem;
+	}
+
+	#a_propos-squares > div > div:nth-child(2) {
+		padding-right: 6rem;
+		padding-left: 6rem;
+	}
+
+	#a_propos-squares {
+		padding: 10rem 0 0 0;
+	}
+
+	#sante_publique-blue_box,
+	#partenaires-blue_box {
+		padding-bottom: 12rem;
+	}
+
+	footer #premier_fournisseur_mondial {
+		padding: 7rem 7rem 3rem 7rem;
+	}
+
+	footer #demande_essai_gratuit {
+		padding: 10rem 8rem;
+	}
+
+	#wrap-all_rights_reserved {
+		padding: 0 7rem 3rem 7rem;
+	}
+
+	#premier_fournisseur_mondial > div:first-child > .huge_title {
+		font-size: 4rem;
+		line-height: 4rem;
+	}
+
+	#sante_publique-organisations {
+		padding: 4.5rem 2.5rem 16.5rem 2.5rem;
+	}
+
+	.wrap-organisations_content > div > img {
+		display: none;
+	}
+
+	#organisation_title {
+		margin-left: -1rem;
+	}
+
+	#demande_essai_gratuit > div:first-child > p:nth-child(2) {
+	  font-size: 2.5rem;
+	  line-height: 3rem;
+	}
+
+	#organisations_liste {
+		display: block;
+	}
+
+	.special_offset {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+    margin-right: 28%;
+	}
+
+	#temoignage-controls > a {
+		width: 3rem;
+		height: 3rem;
+	}
+
+	#temoignage-prev {
+		margin-right: .7rem;
+	}
+
+	#temoignages-bulle .title_with_fade {
+		font-size: 8rem;
+	}
+
+	#temoignage-controls {
+    right: 7rem;
+    top: 5rem;
+	}
+
+	#contact-form > div > div:last-child {
+		padding: 6rem 5rem;
+	}
+
+}
+
+
+
+@media (min-width : 1600px) { 
+
+	#hero_titles {
+		padding: 0 0 0 9rem;
+		bottom: 9%;
+	}
+
+	#hero_titles .btn-linear_gradient_blue {
+		font-size: 1.6rem;
+    padding: 1.5rem 3.5rem;
+	}
+
+	#logiciel_presentation .title-gradient_to_white {
+		font-size: 7rem;
+	}
+
+	.btn-linear_gradient_blue > i {
+		font-size: 3rem;
+	}
+
+	#deploiement .row {
+	  padding: 14rem 9rem;
+	}
+
+	.subpage_squares > .row:nth-child(odd) > div:last-child,
+	.subpage_squares > .row:nth-child(even) > div:first-child {
+	  padding-left: 10rem !important;
+	  padding-right: 10rem !important;
+	  padding-top: 5rem;
+	  padding-bottom: 5rem;
+	  min-height: 40rem;
+	  background-color: #f3f4f8;
+	}
+
+	footer #demande_essai_gratuit {
+		padding: 10rem 11rem;
+	}
+
+	#temoignages-bulle .title_with_fade {
+		font-size: 9rem;
+	}
+
+	#temoignages-bulle .first_text p, 
+	#temoignages-bulle .second_text p {
+		font-size: 1.3rem;
+	}
+
+	#temoignage-controls {
+    right: 7rem;
+    top: 6rem;
+	}
+
+	#temoignage-personne {
+    padding: 2.5rem 3.5rem 3.5rem 11.5rem;
+	}
+
+	#temoignage-personne .temoignage-nom {
+		font-size: 1.6rem;
+	}
+
+	#temoignage-personne .temoignage-occupation {
+		font-size: 1.1rem;
+    line-height: 1.4rem;
+    width: 35rem;
+	}
+
+}
+
+@media (min-width : 1800px) { 
+
+	#home #hero_titles h1 {
+		font-size: 4.5rem;
+	}
+
+	#home #hero_titles h2 {
+		font-size: 5rem;
+	}
+
+	#hero_titles .btn-linear_gradient_blue {
+		font-size: 2rem;
+    padding: 2rem 4rem;
+	}
+
+	#logiciel_presentation .title-gradient_to_white {
+		font-size:7.5rem;
+	}
+
+	.btn-linear_gradient_blue > i {
+		font-size: 3.5rem;
+	}
+
+	.bg_parallax {
+		background-attachment: inherit;
+		background-size: cover;
+	}
+
+	#temoignages-bulle .title_with_fade {
+		font-size: 10rem;
+	}
+
+	#temoignage-controls > a {
+		width: 4rem;
+		height: 4rem;
+		font-size: 1.5rem;
+	}
+
+	#temoignages-bulle .first_text p, 
+	#temoignages-bulle .second_text p {
+		font-size: 1.5rem;
+	}
+
+	#temoignage-personne .temoignage-nom {
+		font-size: 1.8rem;
+	}
+
+}
