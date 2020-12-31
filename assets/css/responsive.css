@@ -209,7 +209,7 @@
 	}
 
 	aside#pale_blue_aside .subtitle {
-	  margin-top: -3rem;
+	  margin-top: 3rem;
 	}
 
 	aside#pale_blue_aside .small_desc {
@@ -809,4 +809,11 @@
 		font-size: 1.8rem;
 	}
 
+}
+
+
+@media (max-width : 768px) {
+	aside#pale_blue_aside .subtitle {
+    margin-top: 2.5rem;
+}
 }

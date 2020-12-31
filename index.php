@@ -56,7 +56,7 @@ img.emoji {
 
     <div id="sticky_header_btns" class="d-none d-lg-flex justify-content-center align-items-center">
       <div id="sticky_header_wrap" class="d-flex justify-content-center align-items-center">
-                  <a href="#">About Dr Yaqub</a>
+                  <a href="index.php">Home</a>
                     <p>:</p>
                             <a href="services/">Services</a>
                         </div>
@@ -69,7 +69,7 @@ img.emoji {
         </div>
         <nav class="col-5 text-center d-none d-xl-block">
           <ul>
-                        <li><a href="#" class="d-flex align-items-center justify-content-center">About Dr Yaqub </a></li>
+                        <li><a href="index.php" class="d-flex align-items-center justify-content-center">Home </a></li>
                          <li>:</li>
                                     <li><a href="services" class="d-flex align-items-center justify-content-center">Services</a></li>
                                    </ul>
@@ -102,12 +102,12 @@ img.emoji {
         <p class="title-small">About</p>
         <p class="desc-big martXs">Dr. Yasir Yaqub, MD, FACC, FCCP, FSCAI</p>
         <p class="desc-normal">
-          <b>Dr. Yaqub is an Interventional Cardiologist with about 20 years of experience, and is affiliated with the prestigious. Dr.Yasir Yaqub is a cardiologist in Enid, Oklahoma, and is affiliated with the prestigious St Mary's Regional Medical Center. He has 18+ years of experience and also run his medical practice.<br />
+          <b>Dr. Yasir Yaqub is an interventional Cardiologist with the expertise of 20+ years. He is affiliated with the prestigious St Mary’s Regional Medical Center and specializes in Cardiovascular Disease, Interventional Cardiology, and Family Medicine. Dr. Yaqub performs various procedures, including Cardiac Rehabilitation, Cardiac Stress Test, Cardiovascular Transcatheter Procedures, Angioplasty, Pacemaker, and Defibrillator Procedures.<br />
 <br />
-He is a graduate of King Edward Medical University – Medical College Lahore, Pakistan. He completed his Internship at the Central Texas Veterans Health Care System, Temple, Texas, and a brief residency at Texas Tech University at Lubbock, Texas, in Internal Medicine and Family Medicine.<br />
+Dr. Yaqub is a graduate of King Edward Medical University – Medical College Lahore, Pakistan. He completed his Internship at the Central Texas Veterans Health Care System, Temple, Texas, and a brief residency at Texas Tech University at Lubbock in Internal Medicine and Family Medicine. Afterward, he completed his fellowship at Texas Tech University at Lubbock in Interventional Cardiology and Cardiovascular Disease. Currently, <br />
 <br />
-Afterward, he completed his fellowship at Texas Tech University at Lubbock, Texas in Interventional Cardiology and Cardiovascular Disease. Currently, Dr. Yasir Yaqub holds certifications from the American Board of Surgery for Cardiovascular Disease, Internal Medicine, and Interventional Cardiology.</p>
-                <a class="btn-linear_gradient_blue" href="tel:(123)-456-7890">(123)-456-7890</a>
+Dr. Yaqub holds certifications from the American Board of Surgery for Cardiovascular Disease, Internal Medicine, and Interventional Cardiology.</p>
+                <a class="btn-linear_gradient_blue" href="tel:(449)-808-0000">(449)-808-0000</a>
               </div>
     </div>
   </section>

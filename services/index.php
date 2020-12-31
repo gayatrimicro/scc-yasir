@@ -53,7 +53,7 @@ img.emoji {
 
     <div id="sticky_header_btns" class="d-none d-lg-flex justify-content-center align-items-center">
       <div id="sticky_header_wrap" class="d-flex justify-content-center align-items-center">
-                  <a href="../index.php">About Dr Yaqub</a>
+                  <a href="../index.php">Home</a>
                     <p>:</p>
                             <a href="index.php">Services</a>
                         </div>
@@ -66,7 +66,7 @@ img.emoji {
         </div>
         <nav class="col-5 text-center d-none d-xl-block">
           <ul>
-                        <li><a href="../index.php" class="d-flex align-items-center justify-content-center">About Dr Yaqub</a></li>
+                        <li><a href="../index.php" class="d-flex align-items-center justify-content-center">Home</a></li>
                          <li>:</li>
                                     <li><a href="index.php" class="d-flex align-items-center justify-content-center">Services</a></li>
                                    </ul>
