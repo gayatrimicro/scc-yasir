@@ -69,7 +69,7 @@ img.emoji {
           <ul>
                         <li><a href="../index.php" class="d-flex align-items-center justify-content-center">Home</a></li>
                          <li>:</li>
-                                    <li><a href="../Services/" class="d-flex align-items-center justify-content-center">Services</a></li>
+                                    <li><a href="../services/" class="d-flex align-items-center justify-content-center">Services</a></li>
                                    </ul>
         </nav>
 
