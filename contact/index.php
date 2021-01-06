@@ -27,6 +27,9 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }
+#demande_essai_gratuit{
+  display: none;
+}
 </style>
 
 
@@ -171,39 +174,10 @@ img.emoji {
 
 
 </main>
-    <footer>
 
-      
 
-      
-      <div id="premier_fournisseur_mondial" class="row">
-        <div class="col-12 col-lg-7">
-          <p class="huge_title wow fadeInLeft" data-wow-duration="2s" data-wow-offset="100">
-            Providing the most comprehensive and highest quality of Care          </p>
-          <p class="small_title wow fadeInLeft" data-wow-duration="2s" data-wow-offset="100">
-            Telehealth Appointment Available          </p>
-        </div>
-        <div class="col-12 col-lg-3 offset-lg-2">
-          <div class="wrap_footer_choices d-flex flex-column justify-content-center align-items-start align-items-lg-end wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">
-                      </div>
-        </div>
-      </div>
+    <?php include("../footer.php"); ?>   
 
-      <div id="wrap-all_rights_reserved" class="row justify-content-center align-items-center">
-        <div class="col-6">
-          <div class="all_rights_reserved wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0s">
-            <p>All Rights Reserved</p>
-          </div>
-        </div>
-        <div class="col-6">
-          <div class="text-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0s">
-            <a href="https://ibridgedigital.com/" target="_blank" id="link_em">Website Design by Ibridge Digital</a>
-          </div>
-        </div>
-      </div>
-    </footer>    
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="../assets/js/bootstrap-4.4.1.min.js"></script>
     <script src="../assets/js/wow.min.js"></script>  
     <script src="../assets/js/rellax.min.js"></script>

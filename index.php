@@ -153,8 +153,7 @@ Dr. Yaqub holds certifications from the American Board of Surgery for Cardiovasc
 
 
     <?php include("footer.php"); ?>
-
-    <script src="assets/js/jquery-3.4.1.min.js"></script>
+        
     <script src="assets/js/bootstrap-4.4.1.min.js"></script>
     <script src="assets/js/wow.min.js"></script>  
     <script src="assets/js/rellax.min.js"></script>

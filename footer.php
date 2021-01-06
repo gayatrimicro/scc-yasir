@@ -46,3 +46,33 @@
         </div>
       </div>
     </footer>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+                    $(document).ready(function() { 
+                        $('#frmBookapp').submit(function(event) {
+                          event.preventDefault();
+                          var formdata = $('#frmBookapp').serialize();
+
+                            if ($('#namebook').val() != "" && $('#emailbook').val() != "" && $('#phonebook').val() != "" && $('#symtombook').val() != "") {
+                                
+                                 $.ajax({
+                                          url:'http://spacegm.com/scc-yasir/bookapp.php',
+                                          type:'POST',
+                                          data:formdata,
+                                          success:function(result){ 
+                                          alert("Information Sent");                                                  
+                                             document.getElementById("frmBookapp").reset();   
+
+                                          }
+                                        });
+                                      }
+                                 else{
+                                  alert("All fields are mandatory");
+                                      }
+                        });
+                    });
+
+</script>

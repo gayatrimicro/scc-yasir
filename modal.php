@@ -8,29 +8,27 @@
         <p class="small_desc">We will contact you shortly for appointment scheduling with Dr Yasir Yaqub. </p>
 
         <div class="wpforms-container wpforms-container-full" id="wpforms-920">
-            <form id="wpforms-form-920" class="wpforms-validate wpforms-form" data-formid="920" method="post" enctype="multipart/form-data" action="#">
+            <form id="frmBookapp" class="wpforms-validate wpforms-form" data-formid="920" method="post">
                 <div class="wpforms-field-container">
                     <div id="wpforms-920-field_1-container" class="wpforms-field wpforms-field-text wpforms-one-half wpforms-first" data-field-id="1">
                         <label class="wpforms-field-label wpforms-label-hide" for="wpforms-920-field_1">Full Name <span class="wpforms-required-label">*</span></label>
-                        <input type="text" id="wpforms-920-field_1" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][1]" placeholder="Full Name" required />
+                        <input type="text" id="namebook" class="wpforms-field-large wpforms-field-required" name="namebook" placeholder="Full Name" required />
                     </div>
                     <div id="wpforms-920-field_6-container" class="wpforms-field wpforms-field-email wpforms-one-half" data-field-id="6">
                         <label class="wpforms-field-label wpforms-label-hide" for="wpforms-920-field_6">E-mail <span class="wpforms-required-label">*</span></label>
-                        <input type="email" id="wpforms-920-field_6" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][6]" placeholder="E-mail" required />
+                        <input type="email" id="emailbook" class="wpforms-field-large wpforms-field-required" name="emailbook" placeholder="E-mail" required />
                     </div>                   
                     <div id="wpforms-920-field_3-container" class="wpforms-field wpforms-field-phone wpforms-one-half wpforms-first" data-field-id="3">
                         <label class="wpforms-field-label wpforms-label-hide" for="wpforms-920-field_3">Phone Number <span class="wpforms-required-label">*</span></label>
-                        <input type="tel" id="wpforms-920-field_3" class="wpforms-field-large wpforms-field-required" data-rule-int-phone-field="true" name="wpforms[fields][3]" placeholder="Phone Number" required />
+                        <input type="tel" id="phonebook" class="wpforms-field-large wpforms-field-required" data-rule-int-phone-field="true" name="phonebook" placeholder="Phone Number" required />
                     </div>                    
                     <div id="wpforms-920-field_5-container" class="wpforms-field wpforms-field-text wpforms-one-half" data-field-id="5">
                         <label class="wpforms-field-label wpforms-label-hide" for="wpforms-920-field_5">Symptom</label>
-                        <input type="text" id="wpforms-920-field_5" class="wpforms-field-large" name="wpforms[fields][5]" placeholder="Symptom" />
+                        <input type="text" id="symtombook" class="wpforms-field-large" name="symtombook" placeholder="Symptom" />
                     </div>
                 </div>
-                <div class="wpforms-field wpforms-field-hp"><label for="wpforms-920-field-hp" class="wpforms-field-label">Phone</label><input type="text" name="wpforms[hp]" id="wpforms-920-field-hp" class="wpforms-field-medium" /></div>
-                <div class="wpforms-submit-container">
-                    <input type="hidden" name="wpforms[id]" value="920" /><input type="hidden" name="wpforms[author]" value="1" /><input type="hidden" name="wpforms[post_id]" value="919" />
-                    <button type="submit" name="wpforms[submit]" class="wpforms-submit btn-linear_gradient_blue" id="wpforms-submit-920" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Submit">
+                <div class="wpforms-submit-container">                    
+                    <button type="submit" name="" class="wpforms-submit btn-linear_gradient_blue" id="bookfrmsub" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Submit">
                         Submit
                     </button>
                 </div>

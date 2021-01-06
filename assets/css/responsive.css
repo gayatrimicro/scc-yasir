@@ -816,4 +816,7 @@
 	aside#pale_blue_aside .subtitle {
     margin-top: 2.5rem;
 }
+#aside_content{
+	width: 100%;
+}
 }
