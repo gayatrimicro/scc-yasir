@@ -102,12 +102,10 @@ img.emoji {
         <p class="title-small">About</p>
         <p class="desc-big martXs">Dr. Yasir Yaqub, MD, FACC, FCCP, FSCAI</p>
         <p class="desc-normal">
-          <b>Dr. Yasir Yaqub is an interventional Cardiologist with the expertise of 20+ years. He is affiliated with the prestigious St Mary’s Regional Medical Center and specializes in Cardiovascular Disease, Interventional Cardiology, and Family Medicine. Dr. Yaqub performs various procedures, including Cardiac Rehabilitation, Cardiac Stress Test, Cardiovascular Transcatheter Procedures, Angioplasty, Pacemaker, and Defibrillator Procedures.<br />
-<br />
-Dr. Yaqub is a graduate of King Edward Medical University – Medical College Lahore, Pakistan. He completed his Internship at the Central Texas Veterans Health Care System, Temple, Texas, and a brief residency at Texas Tech University at Lubbock in Internal Medicine and Family Medicine. Afterward, he completed his fellowship at Texas Tech University at Lubbock in Interventional Cardiology and Cardiovascular Disease. Currently, <br />
-<br />
-Dr. Yaqub holds certifications from the American Board of Surgery for Cardiovascular Disease, Internal Medicine, and Interventional Cardiology.</p>
-                <a class="btn-linear_gradient_blue" href="tel:(449)-808-0000">(449)-808-0000</a>
+          <b>Dr. Yasir Yaqub is an interventional Cardiologist with the expertise of 20+ years. He has previously worked at St Mary’s Regional Medical Center and University Medical Center, Lubbock, Texas. Dr Yaqub specializes in Cardiovascular Disease, Interventional Cardiology, and Family Medicine. Dr. Yaqub performs various procedures, including Angioplasty,  Cardiac Stress Test, Cardiovascular Transcatheter Procedures, Pacemaker and Defibrillator, and Cardiac Rehabilitation. 
+          <br><br>Dr. Yaqub is a graduate of King Edward Medical University – Medical College Lahore, Pakistan. He completed his residency at Texas Tech University at Lubbock in Internal Medicine. Afterward, he completed his fellowship at Texas Tech University at Lubbock in Interventional Cardiology and Cardiovascular Disease. Dr. Yaqub holds certifications from the American Board of Surgery for Cardiovascular Disease, Internal Medicine, and Interventional Cardiology.
+</p>
+                <a class="btn-linear_gradient_blue" href="tel:+1469-808-0000">469-808-0000</a>
               </div>
     </div>
   </section>
@@ -125,10 +123,10 @@ Dr. Yaqub holds certifications from the American Board of Surgery for Cardiovasc
             <ul>
 <li>Cardiovascular Disease</li>
 <li>Interventional Cardiology</li>
-<li>Family Medicine</li>
+<!-- <li>Family Medicine</li> -->
 <li>General Cardiology</li>
 <li>Adult Congenital Heart Disease</li>
-<li>Cardiac Electrophysiology</li>
+<li>Cardiac Devices</li>
 </ul>
           </div>
           <p class="desc-big">
@@ -137,9 +135,12 @@ Dr. Yaqub holds certifications from the American Board of Surgery for Cardiovasc
             <ul>
 <li>Cardiac Rehabilitation</li>
 <li>Cardiac Stress Test</li>
-<li>Cardiovascular Transcatheter Procedures</li>
-<li>Angioplasty</li>
+<li>Cardiac Angiogram </li>
+<!-- <li>Cardiovascular Transcatheter Procedures</li> -->
+<!-- <li>Angioplasty</li> -->
+<li>Cardiac Angioplasty</li>
 <li>Pacemaker and Defibrillator Procedures</li>
+<li>Cardiac Rehabilitation</li>
 </ul>
           </div>
         </div>

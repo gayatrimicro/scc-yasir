@@ -6,9 +6,9 @@
         <div class="col-12 col-lg-5">
           <p class="suptitle">Demonstration</p>
           <p class="d-none d-sm-block">
-            Contact us for Cardiology Treatment         </p>
+            Contact us for all your cardiac related concerns        </p>
           <a href="#" class="d-sm-none">
-            Contact us for Cardiology Treatment
+            Contact us for all your cardiac related concerns 
           </a>
         </div>
         <div class="col-12 col-lg-7 d-flex justify-content-start justify-content-lg-end align-items-center">
@@ -23,7 +23,7 @@
       <div id="premier_fournisseur_mondial" class="row">
         <div class="col-12 col-lg-7">
           <p class="huge_title wow fadeInLeft" data-wow-duration="2s" data-wow-offset="100">
-            Providing the most comprehensive and highest quality of Care          </p><br><br>
+            Providing the highest quality of care          </p><br><br>
           <p class="small_title wow fadeInLeft" data-wow-duration="2s" data-wow-offset="100">
             Telehealth Appointment Available          </p>
         </div>

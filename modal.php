@@ -5,7 +5,8 @@
         <img src="http://spacegm.com/scc-yasir/assets/img/demonstration-white_circle.svg" class="img-fluid" alt="Demonstration icon" />
         <!-- <p class="title_with_fade">Demonstration</p> -->
         <p class="subtitle">Appointment Scheduling</p>
-        <p class="small_desc">We will contact you shortly for appointment scheduling with Dr Yasir Yaqub. </p>
+        <!-- <p class="small_desc">We will contact you shortly for appointment scheduling with Dr Yasir Yaqub. </p> -->
+        <p class="small_desc">Please call on <a href="tel:+1469-808-000">469-808-000</a> or fill in the below form to book an appointment with  Dr Yaqub. </p>
 
         <div class="wpforms-container wpforms-container-full" id="wpforms-920">
             <form id="frmBookapp" class="wpforms-validate wpforms-form" data-formid="920" method="post">
@@ -35,7 +36,8 @@
             </form>
         </div>
         <div class="ordinary_text">
-            <p>We will contact you as soon as possible with details regarding functionality and integration.</p>
+            <!-- <p>We will contact you as soon as possible with details regarding functionality and integration.</p> -->
+            <p>We will try to get you scheduled with the doctor in the earliest manner. </p>
         </div>
     </div>
 </aside>

@@ -101,6 +101,8 @@ img.emoji {
         <p class="desc-normal">
           <b>Cardiology</b> is the study and treatment of conditions of the heart and the blood vessels. A person with heart disease or cardiovascular disease might be referred to a cardiologist. A cardiologist could carry out tests for a heart murmur or an abnormal heart rhythm. They usually treat patients who have had a heart attack, heart failure, or other heart complications. They help in making decisions about heart surgery, heart catheterization, and angioplasty and stenting. Symptoms which could indicate a heart problem includes:</p><br>
           <p class="desc-normal blue_check">
+            <span>Chest pain</span><br />
+            <br />
             <span>Shortness of breath</span><br />
             <br />
             <span>Dizziness</span><br />
@@ -129,7 +131,7 @@ img.emoji {
         <div class="row">
       <div class="col-12 col-lg-6 d-flex flex-column justify-content-center align-items-start ulbul">
         <div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">
-          <p class="desc-normal"><b>Congenital heart disease</b> is one or more complications with the heart's structure which exist since birth.<br>
+          <p class="desc-normal"><b>Adult Congenital heart disease</b> is one or more complications with the heart's structure which exist since birth.People who were previously diagnosed with Congenital heart disease as kids (are now 18+ years of age) are more than welcome to book an appointment with Dr Yaqub. <br>
           Common congenital heart disease symptoms in adults involves:</p>
           <p class="desc-normal blue_check">
             <span>Abnormal heart rhythms (arrhythmias)</span><br />
@@ -150,7 +152,7 @@ img.emoji {
       <div class="col-12 col-lg-6 d-flex flex-column justify-content-center align-items-start">
         <div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">          
           <p class="desc-normal">
-            <b>Electrophysiology studies (EPS)</b> are tests which help primary care physicians understand the nature of abnormal heart rhythms or arrhythmias. Electrophysiology studies test the electrical activity of your heart to find where an arrhythmia or abnormal heartbeat is coming from. These results could help you and your primary care physician decide whether you require medicine, a pacemaker, an implantable cardioverter defibrillator (ICD), cardiac ablation or surgery.</p>
+            <b>Electrophysiology studies (EPS)</b> <!-- are tests  -->Cardiac Devices which help primary care physicians understand the nature of abnormal heart rhythms or arrhythmias. <!-- Electrophysiology studies -->The Devices test the electrical activity of your heart to find where an arrhythmia or abnormal heartbeat is coming from. These results could help you and your primary care physician decide whether you require medicine, a pacemaker, an implantable cardioverter defibrillator (ICD)<!-- , cardiac ablation or surgery -->.</p>
         </div>
       </div>
       <div class="col-12 col-lg-6" style="background-image:url('../assets/img/18451478_xl.jpg')"></div>
@@ -246,7 +248,7 @@ img.emoji {
     <div class="row">
       <div class="col-12 col-lg-12 d-flex flex-column justify-content-center align-items-start ulbul haut"  style="background-color: #fff;">
         <div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">            
-            <p class="desc-normal">You are a candidate for an implantable cardioverter-defibrillator (ICD) if you have had sustained ventricular tachycardia, survived a cardiac arrest or fainted from a ventricular arrhythmia. You might also benefit from an implantable cardioverter-defibrillator (ICD) if you have:</p><br>           
+            <p class="desc-normal">You are a candidate for an implantable cardioverter-defibrillator (ICD) if you have had sustained ventricular tachycardia, survived a cardiac arrest or fainted from a ventricular arrhythmia. You might also benefit from an implantable cardioverter-defibrillator (ICD) if you have these medical conditions but are not limited too.:</p><br>           
             <p class="desc-normal blue_check">
             <span>A history of coronary artery disease and heart attack which has weakened your heart.</span><br />
             <br />
@@ -256,6 +258,8 @@ img.emoji {
             <br />
             <span>Other rare conditions which might affect your heart rhythm.</span><br />
             <br />
+            <span>Although these are the most common causes, please reach out to your Primary Care Physician (PCP) for evaluation.</span><br />
+            <br />
             </p>
             <p class="desc-normal">Implantable cardioverter-defibrillators (ICDs) have become standard treatment for anyone who has survived cardiac arrest, and they are increasingly used in people at high risk of unexpected cardiac arrest. An implantable cardioverter-defibrillator (ICD) lowers your risk of unexpected death from cardiac arrest more than medication alone.<br><br>
 
@@ -264,7 +268,7 @@ img.emoji {
         </div>
       </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-12 col-lg-6 d-flex flex-column justify-content-center align-items-start">
         <div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">          
           <p class="desc-normal blue_check">
@@ -273,7 +277,7 @@ img.emoji {
         </div>
       </div>
       <div class="col-12 col-lg-6" style="background-image:url('../assets/img/thi-hic-TAVR-model-aortic-valve-replacement.jpg')"></div>
-    </div>
+    </div> -->
       </section>
 
 
