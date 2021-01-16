@@ -157,6 +157,7 @@
 
 @media (min-width : 992px) { /* medium and up */
 
+
 	.bg_parallax {
 		background-attachment: fixed;
 	}
@@ -215,6 +216,9 @@
 	aside#pale_blue_aside .small_desc {
 		font-size: 3rem;
 	}
+	aside#pale_blue_aside .fonts {
+     font-size: 1.80rem; 
+	}
 
 	aside#pale_blue_aside .ordinary_text p {
 		font-size: 1.5rem;
@@ -237,7 +241,7 @@
 		margin: 0 0 0 auto;
 		transition: width .25s ease-in-out;
 	}
-
+	
 	/* Largeur des elements HTML avec aside ouvert */
 	body.left_aside_menu-opened aside#menu-left_sidebar {
 		width: 16rem;
@@ -595,7 +599,7 @@
 	}
 
 	.desc-big {
-		font-size: 2rem;
+		font-size: 1.75rem;
 	}
 
 	#logiciel_presentation {

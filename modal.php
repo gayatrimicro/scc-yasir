@@ -6,7 +6,7 @@
         <!-- <p class="title_with_fade">Demonstration</p> -->
         <p class="subtitle">Appointment Scheduling</p>
         <!-- <p class="small_desc">We will contact you shortly for appointment scheduling with Dr Yasir Yaqub. </p> -->
-        <p class="small_desc">Please call on <a href="tel:+1469-808-000">469-808-000</a> or fill in the below form to book an appointment with  Dr Yaqub. </p>
+        <p class="small_desc fonts">Please call on <a href="tel:+1469-808-000">469-808-000</a> or fill in the below form to book an appointment with  Dr Yaqub. </p>
 
         <div class="wpforms-container wpforms-container-full" id="wpforms-920">
             <form id="frmBookapp" class="wpforms-validate wpforms-form" data-formid="920" method="post">
@@ -28,7 +28,9 @@
                         <input type="text" id="symtombook" class="wpforms-field-large" name="symtombook" placeholder="Symptom" />
                     </div>
                 </div>
-                <div class="wpforms-submit-container">                    
+
+                <div class="wpforms-submit-container">
+                <br>                  
                     <button type="submit" name="" class="wpforms-submit btn-linear_gradient_blue" id="bookfrmsub" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="Submit">
                         Submit
                     </button>
@@ -37,7 +39,7 @@
         </div>
         <div class="ordinary_text">
             <!-- <p>We will contact you as soon as possible with details regarding functionality and integration.</p> -->
-            <p>We will try to get you scheduled with the doctor in the earliest manner. </p>
+            <!-- <p>We will try to get you scheduled with the doctor in the earliest manner. </p> -->
         </div>
     </div>
 </aside>

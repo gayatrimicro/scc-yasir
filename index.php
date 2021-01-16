@@ -102,7 +102,7 @@ img.emoji {
         <p class="title-small">About</p>
         <p class="desc-big martXs">Dr. Yasir Yaqub, MD, FACC, FCCP, FSCAI</p>
         <p class="desc-normal">
-          <b>Dr. Yasir Yaqub is an interventional Cardiologist with the expertise of 20+ years. He has previously worked at St Mary’s Regional Medical Center and University Medical Center, Lubbock, Texas. Dr Yaqub specializes in Cardiovascular Disease, Interventional Cardiology, and Family Medicine. Dr. Yaqub performs various procedures, including Angioplasty,  Cardiac Stress Test, Cardiovascular Transcatheter Procedures, Pacemaker and Defibrillator, and Cardiac Rehabilitation. 
+          Dr. Yasir Yaqub is an interventional Cardiologist with the expertise of 20+ years. He has previously worked at St Mary’s Regional Medical Center and University Medical Center, Lubbock, Texas. Dr Yaqub specializes in Cardiovascular Disease, Interventional Cardiology, and Family Medicine. Dr. Yaqub performs various procedures, including Angioplasty,  Cardiac Stress Test, Cardiovascular Transcatheter Procedures, Pacemaker and Defibrillator, and Cardiac Rehabilitation. 
           <br><br>Dr. Yaqub is a graduate of King Edward Medical University – Medical College Lahore, Pakistan. He completed his residency at Texas Tech University at Lubbock in Internal Medicine. Afterward, he completed his fellowship at Texas Tech University at Lubbock in Interventional Cardiology and Cardiovascular Disease. Dr. Yaqub holds certifications from the American Board of Surgery for Cardiovascular Disease, Internal Medicine, and Interventional Cardiology.
 </p>
                 <a class="btn-linear_gradient_blue" href="tel:+1469-808-0000">469-808-0000</a>
@@ -133,12 +133,9 @@ img.emoji {
             Services Offered by Dr. Yasir Yaqub :-</p>
           <div class="desc-normal">
             <ul>
-<li>Cardiac Rehabilitation</li>
-<li>Cardiac Stress Test</li>
-<li>Cardiac Angiogram </li>
-<!-- <li>Cardiovascular Transcatheter Procedures</li> -->
-<!-- <li>Angioplasty</li> -->
+<li>Cardiac Angiogram</li>
 <li>Cardiac Angioplasty</li>
+<li>Cardiac Stress Test</li>
 <li>Pacemaker and Defibrillator Procedures</li>
 <li>Cardiac Rehabilitation</li>
 </ul>

@@ -4,7 +4,7 @@
 
             <div id="demande_essai_gratuit" class="row bg_parallax" style="background-image:url('http://spacegm.com/scc-yasir/assets/img/footer_blue_plus.jpg');">
         <div class="col-12 col-lg-5">
-          <p class="suptitle">Demonstration</p>
+          <p class="suptitle"></p>
           <p class="d-none d-sm-block">
             Contact us for all your cardiac related concerns        </p>
           <a href="#" class="d-sm-none">
