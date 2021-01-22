@@ -228,7 +228,7 @@ img.emoji {
       <div class="col-12 col-lg-6 d-flex flex-column justify-content-center align-items-start">
         <div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">          
           <p class="desc-normal blue_check">
-            <b>Coronary angioplasty, </b>, also known as percutaneous coronary intervention, is a technique used to open blocked heart arteries. Angioplasty uses a tiny balloon catheter which is inserted in a blocked blood vessel to help widen it and improve the blood flow to your heart. <br><br>
+            <b>Coronary angioplasty, </b> also known as percutaneous coronary intervention, is a technique used to open blocked heart arteries. Angioplasty uses a tiny balloon catheter which is inserted in a blocked blood vessel to help widen it and improve the blood flow to your heart. <br><br>
           Angioplasty is not for everyone. Depending upon the extent of your heart disease and your overall health, your primary care physician might determine that coronary artery bypass surgery is a better alternative than angioplasty for you.</p>
         </div>
       </div>
@@ -248,7 +248,7 @@ img.emoji {
     <div class="row">
       <div class="col-12 col-lg-12 d-flex flex-column justify-content-center align-items-start ulbul haut"  style="background-color: #fff;">
         <div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">            
-            <p class="desc-normal">You are a candidate for an implantable cardioverter-defibrillator (ICD) if you have had sustained ventricular tachycardia, survived a cardiac arrest or fainted from a ventricular arrhythmia. You might also benefit from an implantable cardioverter-defibrillator (ICD) if you have these medical conditions but are not limited too.:</p><br>           
+            <p class="desc-normal">You are a candidate for an implantable cardioverter-defibrillator (ICD) if you have had sustained ventricular tachycardia, survived a cardiac arrest or fainted from a ventricular arrhythmia. You might also benefit from an implantable cardioverter-defibrillator (ICD) if you have these medical conditions but are not limited too :</p><br>           
             <p class="desc-normal blue_check">
             <span>A history of coronary artery disease and heart attack which has weakened your heart.</span><br />
             <br />
