@@ -144,7 +144,7 @@ img.emoji {
       </div>
     </div>
     <div class="title-section d-none d-lg-flex justify-content-center align-items-center">
-      <span>02</span> Area of expertise</div>
+      <span>02</span> Areas of expertise</div>
   </section>
 
 </main>
