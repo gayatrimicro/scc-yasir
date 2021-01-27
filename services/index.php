@@ -107,7 +107,7 @@ img.emoji {
             <br />
             <span>Dizziness</span><br />
             <br />
-            <span>Chest pains</span><br />
+            <span>Fatigue and Exertion</span><br />
             <br />
             <span>Changes in heart rate or rhythm</span><br />
             <br />
@@ -140,7 +140,7 @@ img.emoji {
 <br />
 <span>Shortness of breath</span><br />
 <br />
-<span>Tiring quickly upon exertion</span><br />
+<span>Fatigue quickly upon exertion</span><br />
 <br />
 <span>Inflammation of body tissue or organs (edema)</span>
 </p>
@@ -152,7 +152,8 @@ img.emoji {
       <div class="col-12 col-lg-6 d-flex flex-column justify-content-center align-items-start">
         <div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">          
           <p class="desc-normal">
-            <b>Electrophysiology studies (EPS)</b> <!-- are tests  -->Cardiac Devices which help primary care physicians understand the nature of abnormal heart rhythms or arrhythmias. <!-- Electrophysiology studies -->The Devices test the electrical activity of your heart to find where an arrhythmia or abnormal heartbeat is coming from. These results could help you and your primary care physician decide whether you require medicine, a pacemaker, an implantable cardioverter defibrillator (ICD)<!-- , cardiac ablation or surgery -->.</p>
+            Cardiac devices help the patients in treating heart rhythms or arrhythmias. These devices help the heart's electrical system, and if patients need the pacing, it paces the heart. These devices include a pacemaker and implantable cardioverter-defibrillator (ICD). 
+</p>
         </div>
       </div>
       <div class="col-12 col-lg-6" style="background-image:url('../assets/img/18451478_xl.jpg')"></div>
@@ -229,7 +230,7 @@ img.emoji {
         <div class="wow fadeInRight" data-wow-duration="1s" data-wow-offset="100">          
           <p class="desc-normal blue_check">
             <b>Coronary angioplasty, </b> also known as percutaneous coronary intervention, is a technique used to open blocked heart arteries. Angioplasty uses a tiny balloon catheter which is inserted in a blocked blood vessel to help widen it and improve the blood flow to your heart. <br><br>
-          Angioplasty is not for everyone. Depending upon the extent of your heart disease and your overall health, your primary care physician might determine that coronary artery bypass surgery is a better alternative than angioplasty for you.</p>
+          Angioplasty is not for everyone. Depending upon the extent of your heart disease and your overall health, your Cardiologist might determine that coronary artery bypass surgery is a better alternative than angioplasty for you.</p>
         </div>
       </div>
       <div class="col-12 col-lg-6" style="background-image:url('../assets/img/Coronary-Artery-Bypass-Graft-Market.jpg')"></div>

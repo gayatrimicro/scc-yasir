@@ -188,7 +188,7 @@
 	}
 
 	#hero.subpage {
-	  height: 35rem;
+	  height: 45rem;
 	}
 
 	#menu-top {
@@ -703,6 +703,9 @@
 	#hero_titles {
 		padding: 0 0 0 9rem;
 		bottom: 9%;
+	}
+	#hero.subpage {
+	  height: 52rem;
 	}
 
 	#hero_titles .btn-linear_gradient_blue {
