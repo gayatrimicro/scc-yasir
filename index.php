@@ -86,7 +86,7 @@ img.emoji {
   <section id="hero" class="subpage bg_parallax d-flex justify-content-center justify-content-sm-start align-items-center text-center text-sm-left" data-bg_mobile="assets/img/non-ban-img3.jpg" data-bg_screen="assets/img/non-ban-img3.jpg" style="background-image:url('assets/img/non-ban-img3.jpg')">
   <div id="hero_titles" class="row rellax" data-rellax-speed="8">
     <div class="col">
-      <h1>About</h1>
+      <h1></h1>
       <h2>Dr. Yasir Yaqub</h2>
     </div>  
   </div>
