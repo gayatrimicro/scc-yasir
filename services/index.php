@@ -41,13 +41,6 @@ img.emoji {
 <link rel="stylesheet" href="../assets/css/responsive.css">
 <link rel='stylesheet' href='../assets/css/wpforms-full3a92.css' type='text/css'/>
 <link rel="stylesheet" href="../assets/css/servic.css" type='text/css'>
-<style>
-  @media (min-width: 1600px){
-#hero.subpage {
-    height: 35rem;
-}
-}
-</style>
 
   </head>
   <body>
