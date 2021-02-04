@@ -44,7 +44,13 @@ img.emoji {
 <link rel='stylesheet' href='assets/css/wpforms-full3a92.css' type='text/css'/>
 <link rel="stylesheet" href="assets/css/about.css" type='text/css'>
 <link rel="stylesheet" href="assets/css/media.css" type='text/css'>
-
+<style>
+  @media(min-width: 1600px) and (max-width: 2560px){
+  #hero{
+    background-position-y: -82px;
+  }
+}
+</style>
   </head>
   <body>
 

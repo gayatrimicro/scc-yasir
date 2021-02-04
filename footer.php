@@ -2,7 +2,7 @@
 
       
 
-            <div id="demande_essai_gratuit" class="row bg_parallax" style="background-image:url('http://spacegm.com/scc-yasir/assets/img/footer_blue_plus.jpg');">
+            <div id="demande_essai_gratuit" class="row bg_parallax" style="background-image:url('https://texascardiology.co/assets/img/footer_blue_plus.jpg');">
         <div class="col-12 col-lg-5">
           <p class="suptitle"></p>
           <p class="d-none d-sm-block">
@@ -15,7 +15,7 @@
           <div class="wrap_choices">
             <div id="footer-choices_pill_animation"></div>
             <a class="btn btn-essai" href="#" data-action="open" data-target="#pale_blue_aside" data-code="!demonstration!">Fill the form </a>
-            <a class="btn btn-joindre" href="http://spacegm.com/scc-yasir/contact/">Contact Us </a>
+            <a class="btn btn-joindre" href="https://texascardiology.co/contact/">Contact Us </a>
           </div>
         </div>
       </div>
@@ -59,7 +59,7 @@
                             if ($('#namebook').val() != "" && $('#emailbook').val() != "" && $('#phonebook').val() != "" && $('#symtombook').val() != "") {
                                 
                                  $.ajax({
-                                          url:'http://spacegm.com/scc-yasir/bookapp.php',
+                                          url:'https://texascardiology.co/bookapp.php',
                                           type:'POST',
                                           data:formdata,
                                           success:function(result){ 

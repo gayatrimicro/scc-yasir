@@ -2,7 +2,7 @@
     <a href="#" id="close_btn-aside_pale_blue" data-action="close" data-target="#pale_blue_aside"><i class="fas fa-times"></i></a>
 
     <div style="display: none;" data-code="!demonstration!">
-        <img src="http://spacegm.com/scc-yasir/assets/img/demonstration-white_circle.svg" class="img-fluid" alt="Demonstration icon" />
+        <img src="https://texascardiology.co/assets/img/demonstration-white_circle.svg" class="img-fluid" alt="Demonstration icon" />
         <!-- <p class="title_with_fade">Demonstration</p> -->
         <p class="subtitle">Appointment Scheduling</p>
         <!-- <p class="small_desc">We will contact you shortly for appointment scheduling with Dr Yasir Yaqub. </p> -->

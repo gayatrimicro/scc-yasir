@@ -6,8 +6,8 @@
         <span></span>
       </a>
       <ul id="aside_content" class="align-self-center">
-                <li><a href="http://spacegm.com/scc-yasir/">Home</a></li>
-                <li><a href="http://spacegm.com/scc-yasir/services/">Services</a></li>
-                <li><a href="http://spacegm.com/scc-yasir/contact/">Contact</a></li>
+                <li><a href="https://texascardiology.co/">Home</a></li>
+                <li><a href="https://texascardiology.co/services/">Services</a></li>
+                <li><a href="https://texascardiology.co/contact/">Contact</a></li>
               </ul>
     </aside>
