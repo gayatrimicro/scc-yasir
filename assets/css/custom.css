@@ -1260,7 +1260,9 @@ main#home #hero_titles h2 {
 ************************************************************/
 
 #contact #hero {
-  background-color: #071e57;
+  background: linear-gradient( 
+90deg
+ , rgb(59 215 226) 0%, rgb(15 102 132) 100%) !important;
   height: 9rem; 
 }
 
@@ -1859,6 +1861,25 @@ footer #premier_fournisseur_mondial {
   color: #00d7e2;
   border-bottom: 1px solid #00d7e2;
 }
+
+
+@media(min-width: 320px) and (max-width: 991px){
+  .spnLogo img{
+      width: 153px;
+    margin-top: 12px;
+    margin-right: 11px;
+}
+#burger_menu {
+  width: 4rem;
+}
+}
+
+@media(min-width: 992px){
+.spnLogo{
+  display: none;
+}
+}
+
 
 
 

@@ -2,18 +2,26 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KZQDBZT');</script>
+<!-- End Google Tag Manager -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no">
 
-    <link rel="alternate" hreflang="en" href="index.html" />
-	<title>Home</title>
-	<meta name="description" content="" />
-	<link rel="canonical" href="index.html" />
+    <link rel="alternate" hreflang="en" href="https://texascardiology.co/" />
+	<title>Cardiologist Near Me | Texas Cardiology</title>
+	<meta name="description" content="Dr. Yasir Yaqub is an expert in Interventional Cardiology with an experience of 10+ years. Call us at 469-808-0000 to book an appointment." />
+  <meta name="keywords" content="cardiologist near me, congestive heart failure symptoms, cardiovascular disease, interventional cardiology">
+	<link rel="canonical" href="https://texascardiology.co/" />
 	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="About" />
-	<meta property="og:description" content="" />
-	<meta property="og:url" content="index.html" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Cardiologist Near Me | Texas Cardiology" />
+	<meta property="og:description" content="Dr. Yasir Yaqub is an expert in Interventional Cardiology with an experience of 10+ years. Call us at 469-808-0000 to book an appointment." />
+	<meta property="og:url" content="https://texascardiology.co/" />
 	
 		<style type="text/css">
 img.wp-smiley,
@@ -51,8 +59,21 @@ img.emoji {
   }
 }
 </style>
-  </head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-191978858-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-191978858-1');
+</script>
+</head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZQDBZT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
     <div id="blue_filter" style="display:none;"></div>
 
@@ -62,22 +83,22 @@ img.emoji {
 
     <div id="sticky_header_btns" class="d-none d-lg-flex justify-content-center align-items-center">
       <div id="sticky_header_wrap" class="d-flex justify-content-center align-items-center">
-                  <a href="index.php">Home</a>
+                  <a href="https://texascardiology.co/">Home</a>
                     <p>:</p>
-                            <a href="services/">Services</a>
+                            <a href="https://texascardiology.co/services/">Services</a>
                         </div>
     </div>
 
     <header id="menu-top">
       <div class="row">
         <div class="logo col">
-          <a href="index.html"><img src="assets/img/logo.png" alt="logo"></a>
+          <a href="https://texascardiology.co/"><img src="assets/img/logo.png" alt="logo"></a>
         </div>
         <nav class="col-5 text-center d-none d-xl-block">
           <ul>
-                        <li><a href="index.php" class="d-flex align-items-center justify-content-center">Home </a></li>
+                        <li><a href="https://texascardiology.co/" class="d-flex align-items-center justify-content-center">Home </a></li>
                          <li>:</li>
-                                    <li><a href="services" class="d-flex align-items-center justify-content-center">Services</a></li>
+                                    <li><a href="https://texascardiology.co/services" class="d-flex align-items-center justify-content-center">Services</a></li>
                                    </ul>
         </nav>
 

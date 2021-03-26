@@ -9,5 +9,7 @@
                 <li><a href="https://texascardiology.co/">Home</a></li>
                 <li><a href="https://texascardiology.co/services/">Services</a></li>
                 <li><a href="https://texascardiology.co/contact/">Contact</a></li>
+                <li><a href="https://texascardiology.co/blog/">Blogs</a></li>
               </ul>
+              <span class="spnLogo"><img src="https://texascardiology.co/assets/img/logo.png" alt=""></span>
     </aside>

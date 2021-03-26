@@ -6,7 +6,7 @@
         <!-- <p class="title_with_fade">Demonstration</p> -->
         <p class="subtitle">Appointment Scheduling</p>
         <!-- <p class="small_desc">We will contact you shortly for appointment scheduling with Dr Yasir Yaqub. </p> -->
-        <p class="small_desc fonts">Please call on <a href="tel:+1469-808-000">469-808-000</a> or fill in the below form to book an appointment with  Dr Yaqub. </p>
+        <p class="small_desc fonts">Please call on <a href="tel:+1469-808-000">469-808-0000</a> or fill in the below form to book an appointment with  Dr Yaqub. </p>
 
         <div class="wpforms-container wpforms-container-full" id="wpforms-920">
             <form id="frmBookapp" class="wpforms-validate wpforms-form" data-formid="920" method="post">

@@ -11,11 +11,11 @@ use PHPMailer\PHPMailer\PHPMailer;
 
 
 	/*---------*/
-	 $fname = $_POST["app_fname"];
-	 $lname = $_POST["app_lname"];
- 	 $emailid  = $_POST["app_email"];
-	 $pnumber= $_POST["app_number"];
-	 $mbox= $_POST["app_cmessage"];
+	 $fname = $_POST["sFname"];
+	 $lname = $_POST["sLname"];
+ 	 $emailid  = $_POST["sEmail"];
+	 $pnumber= $_POST["sTelphone"];
+	 $mbox= $_POST["sMessage"];
 
 
 	
@@ -73,11 +73,11 @@ $mail->addAddress("content@gmicro.us", "User Details");
 
 	// var_dump($_POST);
 	// exit();
-$mail->isSMTP();                                            // Send using SMTP
+//$mail->isSMTP();                                            // Send using SMTP
 $mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
 $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
 $mail->Username   = 'fe@gmicro.us';                     // SMTP username
-$mail->Password   = 'Command55';                               // SMTP password
+$mail->Password   = 'Ibridge@gws55';                               // SMTP password
 $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
 $mail->Port       = 587;
 	 

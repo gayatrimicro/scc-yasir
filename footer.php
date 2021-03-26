@@ -2,7 +2,7 @@
 
       
 
-            <div id="demande_essai_gratuit" class="row bg_parallax" style="background-image:url('https://texascardiology.co/assets/img/footer_blue_plus.jpg');">
+            <div id="demande_essai_gratuit" class="row bg_parallax" style="background-image:url('http://texascardiology.co/assets/img/footer_blue_plus.jpg');">
         <div class="col-12 col-lg-5">
           <p class="suptitle"></p>
           <p class="d-none d-sm-block">
@@ -59,7 +59,7 @@
                             if ($('#namebook').val() != "" && $('#emailbook').val() != "" && $('#phonebook').val() != "" && $('#symtombook').val() != "") {
                                 
                                  $.ajax({
-                                          url:'https://texascardiology.co/bookapp.php',
+                                          url:'bookapp.php',
                                           type:'POST',
                                           data:formdata,
                                           success:function(result){ 
@@ -75,4 +75,14 @@
                         });
                     });
 
+</script>
+<!-- <script type="text/javascript">
+var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || 
+{widgetcode:"feeb46994642579b1cff2b2b84d7e32bf2cda1113eb1ab119fb74f77cf80eb8926cbd6d5b94d07d71eaf2cdf704a2ebd", values:{},ready:function(){}};
+var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
+s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
+</script> -->
+
+<script type="text/javascript">
+var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"54b5afc677ad8db5b203c36900a462300d2c05bc97acb41a91d79eb76341da6db3fa170b1e251de070b35fa5888947cc", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
 </script>
