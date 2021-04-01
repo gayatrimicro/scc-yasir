@@ -128,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col-12 col-lg-12 rellax ulbul" data-rellax-speed="2" data-rellax-percentage="0.3">
           <p class="desc-big">What are the Signs of a Stroke? </p>
         <p class="desc-normal">A Sign of a Stroke occurs when there is damage to the brain from interruption of its blood supply. A stroke, also known as a cerebrovascular coincidence or CVA.</p>
-        <p class="desc-normal">A stroke is a result of a blocked blood vessel or bleeding inside the mind. A stroke is a medical situation wherein bad blood flow to the brain causes cell death.</p><br>
+        <p class="desc-normal">A stroke is the result of a blocked blood vessel or bleeding inside your brain. A stroke is a medical situation wherein bad blood flow to the brain causes cell death.</p><br>
 
 
           <p class="desc-big">Stroke Symptoms </p>
@@ -152,13 +152,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>Instant speech difficulty or confusion.</span><br /><br />
             <span>Trouble seeing in one or both eyes.</span><br /><br />
             <span>The onset of dizziness, problem walking, or lack of balance.</span><br /><br />
-            <span>Immediate, excessive headache without a recognized purpose.</span><br /><br />
+            <span>Sudden, throbbing headache without any reason.</span><br /><br />
           </p><br><br>
 
 
         <img src="../../assets/img/stroke-one.jpg" class="img-divider"><br><br>
 
-        <p class="desc-big">Recognize the Signs and Stroke Fast </p>
+        <p class="desc-big">Recognise the Signs of Stroke Fast </p>
         <p class="desc-normal">Would you perceive a stroke? Know the indications of a stroke. It could save a life. Indications of a stroke incorporate a hanging face, trouble moving your arms or slurred discourse. </p>
         <p class="desc-normal">On the off chance that you notice indications of a stroke, call us quickly, since any deferral may prompt brain damage or demise. </p>
         <p class="desc-normal">You can diminish your opportunity of having a stroke by overseeing hazardous factors, for example, high blood pressure and cholesterol, and by eating right and working out.</p><br><br>
