@@ -181,6 +181,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
+    
+  </section>
+
+  <br>
+<br>
+<br>
+<br>
+
+
+<section id="contact-blue_box">
+    <div class="row">
+      <div class="col">
+        <div class="services_box d-flex flex-column flex-md-row justify-content-center align-items-center" data-rellax-speed="2">
+            <div class="choice cols-3">
+              <img src="../assets/img/blog-stroke.jpg" class="img-blog">
+              <div class="vertical_line"></div>
+            </div>
+
+            <div class="choice cols-9">
+              <p class="title text-left">What is a Stroke? What are the Signs of a Stroke, Causes, and Treatment? </p>
+              <br>
+              <p class="subtitle text-left small-font">Sudden weakness or numbness on one side of your face or in one arm or leg is the Sign of a Stroke. If you or anyone you know is suffering from a Stroke, call 469-808-0000 to book an appointment.</p>
+              <br>
+              <a class="btn-linear_gradient_blue" href="what-are-the-signs-of-a-stroke-causes-treatment/">Learn More</a>
+            </div>
+        </div>
+      </div>
+    </div>
+    
   </section>
 
   <br>
