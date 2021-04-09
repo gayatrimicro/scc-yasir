@@ -24,7 +24,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:description" content="Congestive Heart Failure can cause shortness of breath with exercise or difficulty breathing at rest or when lying flat in bed. Call 469-808-0000 to book an appointment for Congestive Heart Failure Treatment." />
   <meta name="keywords" content="congestive heart failure treatment, congestive heart failure causes, what causes congestive heart failure, causes of congestive heart failure, treatment for congestive heart failure, congestive heart failure, congestive heart failure symptoms">
   <meta property="og:url" content="https://texascardiology.co/blog/congestive-heart-failure-treatment" />
-  <meta property="og:image" content="https://texascardiology.co/assets/img/blog-stroke_mobile.jpg" />
+  <meta property="og:image" content="https://texascardiology.co/assets/img/hert1.jpg" />
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
