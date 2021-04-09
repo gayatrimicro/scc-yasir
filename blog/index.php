@@ -167,6 +167,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col">
         <div class="services_box d-flex flex-column flex-md-row justify-content-center align-items-center" data-rellax-speed="2">
             <div class="choice cols-3">
+              <img src="../assets/img/hert1.jpg" class="img-blog">
+              <div class="vertical_line"></div>
+            </div>
+
+            <div class="choice cols-9">
+              <p class="title text-left">Congestive Heart Failure Treatment </p>
+              <br>
+              <p class="subtitle text-left small-font">Congestive Heart Failure is a chronic situation wherein the heart doesn't pump blood as nicely as it should. Congestive Heart Failure can occur if the heart can't pump (systolic) or fill (diastolic) appropriately.</p>
+              <br>
+              <a class="btn-linear_gradient_blue" href="congestive-heart-failure-treatment/">Learn More</a>
+            </div>
+        </div>
+      </div>
+    </div>
+    
+  </section>
+
+  <br>
+<br>
+<br>
+<br>
+<section id="contact-blue_box">
+    <div class="row">
+      <div class="col">
+        <div class="services_box d-flex flex-column flex-md-row justify-content-center align-items-center" data-rellax-speed="2">
+            <div class="choice cols-3">
               <img src="../assets/img/blog-heart-attack.jpg" class="img-blog">
               <div class="vertical_line"></div>
             </div>
