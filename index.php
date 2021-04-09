@@ -68,6 +68,50 @@ img.emoji {
 
   gtag('config', 'UA-191978858-1');
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalClinic",
+  "name": "Specialty Care Clinics - Yasir Yaqub",
+  "image": "https://texascardiology.co/assets/img/yasir-small.png",
+  "@id": "",
+  "url": "https://texascardiology.co/",
+  "telephone": "+1 (469) 545-9983",
+  "priceRange": "$50-200",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "13988 Diplomat Drive",
+    "addressLocality": "Farmers Branch",
+    "addressRegion": "TX",
+    "postalCode": "75234",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.935956,
+    "longitude": -96.9059879
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "08:00",
+    "closes": "18:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/specialtycareclinics",
+    "https://twitter.com/DallasClinics",
+    "https://texascardiology.co/",
+    "https://www.pinterest.com/interventionalcardiologist"
+  ] 
+}
+</script>
 </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
