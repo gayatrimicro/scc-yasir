@@ -162,6 +162,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 }
 }
 </style>
+
+<section id="contact-blue_box">
+    <div class="row">
+      <div class="col">
+        <div class="services_box d-flex flex-column flex-md-row justify-content-center align-items-center" data-rellax-speed="2">
+            <div class="choice cols-3">
+              <img src="../assets/img/card1.jpg" class="img-blog">
+              <div class="vertical_line"></div>
+            </div>
+
+            <div class="choice cols-9">
+              <p class="title text-left">Cardiac Rehabilitation</p>
+              <br>
+              <p class="subtitle text-left small-font">Cardiac rehab is a medically supervised program designed to improve your cardiovascular fitness when you have experienced coronary heart assault, coronary heart failure, angioplasty or coronary heart surgical treatment.</p>
+              <br>
+              <a class="btn-linear_gradient_blue" href="cardiac-rehabilitation/">Learn More</a>
+            </div>
+        </div>
+      </div>
+    </div>
+    
+  </section>
+
+  <br>
+<br>
+<br>
+<br>
 <section id="contact-blue_box">
     <div class="row">
       <div class="col">

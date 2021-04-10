@@ -174,20 +174,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <p class="desc-big">Why it's done:</p>
         <p class="desc-normal">Cardiac rehabilitation is an option for people with many types of heart ailment. You may benefit from cardiac rehabilitation in case your medical history consists of:</p>
-        <ul>
-          <li><p>Heart attack</p></li>
-          <li><p>Coronary artery disease</p></li>
-          <li><p>Heart failure</p></li>
-          <li><p>Peripheral artery disease</p></li>
-          <li><p>Chest ache (angina)</p></li>
-          <li><p>Cardiomyopathy</p></li>
-          <li><p>Certain congenital heart illnesses</p></li>
-          <li><p>Coronary artery bypass surgical procedure</p></li>
-          <li><p>Angioplasty and stents</p></li>
-          <li><p>Heart or lung transplant</p></li>
-          <li><p>Heart valve repair or substitute</p></li>
-          <li><p>Pulmonary high blood pressure</p></li>
-        </ul><br><br>        
+        <p class="desc-normal blue_check">
+          <span><b>Heart attack</b></span><br /><br />
+          <span><b>Coronary artery disease</b></span><br /><br />
+          <span><b>Heart failure</b></span><br /><br />
+          <span><b>Peripheral artery disease</b></span><br /><br />
+          <span><b>Chest ache (angina)</b></span><br /><br />
+          <span><b>Cardiomyopathy</b></span><br /><br />
+          <span><b>Certain congenital heart illnesses</b></span><br /><br />
+          <span><b>Coronary artery bypass surgical procedure</b></span><br /><br />
+          <span><b>Angioplasty and stents</b></span><br /><br />
+          <span><b>Heart or lung transplant</b></span><br /><br />
+          <span><b>Heart valve repair or substitute</b></span><br /><br />
+          <span><b>Pulmonary high blood pressure</b></span>
+        </p><br><br>        
 
         <br><br>
         <p class="desc-normal">If you or anyone you know is suffering from a cardiovascular disease, our expert providers at Texas Cardiology will take care of your health and help you recover.</p>
