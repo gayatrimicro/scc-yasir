@@ -168,6 +168,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="col">
         <div class="services_box d-flex flex-column flex-md-row justify-content-center align-items-center" data-rellax-speed="2">
             <div class="choice cols-3">
+              <img src="../assets/img/blog-arrhythmia.jpg" class="img-blog">
+              <div class="vertical_line"></div>
+            </div>
+
+            <div class="choice cols-9">
+              <p class="title text-left">Prevention and Arrhythmia Treatment</p>
+              <br>
+              <p class="subtitle text-left small-font">The heart normally has a steady beat. When the beat becomes irregular then you should opt for arrhythmia treatment which involves restoring the heart to a normal rhythm.</p>
+              <br>
+              <a class="btn-linear_gradient_blue" href="arrhythmia-treatment/">Learn More</a>
+            </div>
+        </div>
+      </div>
+    </div>
+    
+  </section>
+
+  <br>
+<br>
+<br>
+<br>
+
+
+
+<section id="contact-blue_box">
+    <div class="row">
+      <div class="col">
+        <div class="services_box d-flex flex-column flex-md-row justify-content-center align-items-center" data-rellax-speed="2">
+            <div class="choice cols-3">
+              <img src="../assets/img/blog-valve.jpg" class="img-blog">
+              <div class="vertical_line"></div>
+            </div>
+
+            <div class="choice cols-9">
+              <p class="title text-left">Heart Valve Problems</p>
+              <br>
+              <p class="subtitle text-left small-font">Heart Valve Problems could have three primary types of troubles: regurgitation, stenosis, and atresia. Heart valve disease happens while your heart's valves do not pump blood successfully.</p>
+              <br>
+              <a class="btn-linear_gradient_blue" href="heart-valve-problems/">Learn More</a>
+            </div>
+        </div>
+      </div>
+    </div>
+    
+  </section>
+
+  <br>
+<br>
+<br>
+<br>
+
+
+<section id="contact-blue_box">
+    <div class="row">
+      <div class="col">
+        <div class="services_box d-flex flex-column flex-md-row justify-content-center align-items-center" data-rellax-speed="2">
+            <div class="choice cols-3">
               <img src="../assets/img/card1.jpg" class="img-blog">
               <div class="vertical_line"></div>
             </div>
